@@ -1,0 +1,11 @@
+add_executable(
+        archiver
+        archiver.cpp
+        utils.cpp
+        dearchive.cpp
+        archive.cpp
+        Trie.cpp
+        IBitStream.cpp
+        OBitStream.cpp
+        Bitset.cpp
+)
